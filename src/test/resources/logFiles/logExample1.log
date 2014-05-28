@@ -1,0 +1,34 @@
+2012-10-17 15:34:54,455 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/imezzadra/soapui-settings.xml]
+2012-10-17 15:34:55,084 INFO  [SoapUIProGroovyScriptEngineFactory] Setting Script Library to [/home/imezzadra/workspace/callback/trunk/tools/automation/libraries/src/main/groovy]
+2012-10-17 15:34:55,112 INFO  [DefaultSoapUICore] Adding listeners from [/home/imezzadra/another/eviware/soapui-pro-4.5.1/bin/listeners/demo-listeners.xml]
+2012-10-17 15:34:57,467 INFO  [WorkspaceImpl] Loading workspace from [/home/imezzadra/default-soapui-workspace.xml]
+2012-10-17 15:34:57,705 INFO  [WsdlProject] Loaded project from [file:/home/imezzadra/soapUIprojects/WebCallback-63.237-soapui-project.xml]
+2012-10-17 15:34:58,513 INFO  [WsdlProject] Loaded project from [file:/home/imezzadra/soapUIprojects/BSR-60-41-soapui-project.xml]
+2012-10-17 15:34:58,518 INFO  [WsdlProject] Loaded project from [file:/home/imezzadra/soapUIprojects/Webcallback-237-40-soapui-project.xml]
+2012-10-17 15:34:58,525 INFO  [WsdlProject] Loaded project from [file:/home/imezzadra/soapUIprojects/62-48-soapui-project.xml]
+2012-10-17 15:34:59,468 INFO  [SoapUI] Used java version: 1.6.0_26
+2012-10-17 15:35:01,169 INFO  [DefaultSoapUICore] Adding actions from [/home/imezzadra/another/eviware/soapui-pro-4.5.1/bin/actions/demo-actions.xml]
+2012-10-17 15:35:02,235 INFO  [b] XULRunner is already extracted to /home/imezzadra/.JxBrowser/xulrunner-linux-version-1.9.2.1/xulrunner-linux
+2012-10-17 15:35:34,462 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2012-10-17 15:35:34,495 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2012-10-17 15:35:34,496 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2012-10-17 15:35:34,498 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2012-10-17 15:35:34,499 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2012-10-17 15:35:34,500 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2012-10-17 15:35:34,502 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2012-10-17 15:35:34,509 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2012-10-17 15:35:34,512 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2012-10-17 15:35:34,519 INFO  [SchemaUtils] Added default schema from file:/home/imezzadra/another/eviware/soapui-pro-4.5.1/lib/soapui-4.5.1.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2012-10-17 15:35:34,520 INFO  [SchemaUtils] Loading schema types from [http://135.122.63.237:8081/webcallback/WebCallback40?wsdl]
+2012-10-17 15:35:34,521 INFO  [SchemaUtils] Getting schema http://135.122.63.237:8081/webcallback/WebCallback40?wsdl
+2012-10-17 15:35:34,529 INFO  [SchemaUtils] Getting schema http://135.122.63.237:8081/webcallback/WebCallback40?wsdl=WebCallbackWs40.wsdl
+2012-10-17 15:43:16,796 INFO  [DefaultSoapUICore] Settings saved to [/home/imezzadra/soapui-settings.xml]
+2012-10-17 15:43:16,862 WARN  [errorlog] Failed to delete temporary project file; /home/imezzadra/soapUIprojects/project-temp-6423224999115376176.xml
+2012-10-17 15:43:16,890 INFO  [WsdlProject] Saved project [63.237] to [/home/imezzadra/soapUIprojects/WebCallback-63.237-soapui-project.xml - 50439 bytes
+2012-10-17 15:43:16,899 WARN  [errorlog] Failed to delete temporary project file; /home/imezzadra/soapUIprojects/project-temp-6321930121359033544.xml
+2012-10-17 15:43:16,899 INFO  [WsdlProject] Saved project [BSR 60.41] to [/home/imezzadra/soapUIprojects/BSR-60-41-soapui-project.xml - 13450 bytes
+2012-10-17 15:43:16,916 WARN  [errorlog] Failed to delete temporary project file; /home/imezzadra/soapUIprojects/project-temp-88887351831746206.xml
+2012-10-17 15:43:16,918 INFO  [WsdlProject] Saved project [237 40] to [/home/imezzadra/soapUIprojects/Webcallback-237-40-soapui-project.xml - 64120 bytes
+2012-10-17 15:43:16,936 WARN  [errorlog] Failed to delete temporary project file; /home/imezzadra/soapUIprojects/project-temp-958277172532243137.xml
+2012-10-17 15:43:16,937 INFO  [WsdlProject] Saved project [62.48] to [/home/imezzadra/soapUIprojects/62-48-soapui-project.xml - 48052 bytes
+2012-10-17 15:43:16,947 INFO  [WorkspaceImpl] Saved workspace to [/home/imezzadra/default-soapui-workspace.xml]
